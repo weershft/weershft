@@ -48,7 +48,7 @@ Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando s
 Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Administração Financeira.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Node Js.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS E Java Script.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS e Java Script.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Java Script/JQuery.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> BootsTrap ( Css , JS ).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Python ( Basico ao Intermediario ).<br>
