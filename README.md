@@ -1,4 +1,3 @@
-## Ola, eu sou o Pedro Teixeira.
 Bem vindo ao meu perfil no GitHub.<br>
 <div align="center">
   <a href="https://github.com/weershft">
