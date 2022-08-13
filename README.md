@@ -49,7 +49,7 @@ Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - TypeScript <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Node.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> PHP. () {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Laravel () {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> Laravel<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS e Java Script - e ( BootsTrap / JQuery ). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Python ( Basico ao Intermediario ).<br>
