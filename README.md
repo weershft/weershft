@@ -49,13 +49,13 @@ Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - TypeScript <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Node.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> PHP. () {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Laravel<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -  Laravel.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS e Java Script - e ( BootsTrap / JQuery ). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS, Java Script / BootsTrap e JQuery. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Python ( Basico ao Intermediario ).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> React Native ( CLI - Expo ). () {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Desenvolvimento Android<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Desenvolvimento IOS ( Expo )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento Android.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento IOS. ( Expo )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Administração Financeira.<br>
