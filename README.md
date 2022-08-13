@@ -32,7 +32,7 @@ Bem vindo ao meu perfil no GitHub.<br>
   
   <div><p>
   
-  <h1 style="background-color:#458;">Ola, Sou o Pedro Teixeira!</h1>
+  <h1 style="background-color:#458;">Ola, sou o Pedro Teixeira!</h1>
 
 Atualmente estudo a parte de inovações na parte empresarial, e busco atrave de tecnologia trazer uma melhor experiencia de trabalho para os colaboradores e uma melhora gritante para os clientes.<br>
 Acredito que a parte de inovação é algo que muda tudo para melhor em uma empresa, independente do nicho e foco da empresa em sí.<br>
