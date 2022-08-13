@@ -61,6 +61,7 @@ Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento Android.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento IOS. ( Expo )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> SQL.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Administração Financeira.<br>
         
