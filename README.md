@@ -46,8 +46,8 @@ Pense o seguinte : O mercado é igual uma corrida. ONDE :<br>
 Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando sempre ser referencia, e um lugar melhor para que perceiros de trabalho se sintam bem, trabalhando e fazendo o melhor.<br>
 
 Experiencia e Cursos:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - TypeScript <br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Node.js<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - TypeScript. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> Node.js.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> PHP. () {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -  Laravel.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
