@@ -4,9 +4,7 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=weershft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="weershft-PHP" height="30" width="40" src="https://www.google.com/search?q=hacking+gif&tbm=isch&ved=2ahUKEwiit6fIrcX5AhXrNrkGHYcTAAgQ2-        cCegQIABAA&oq=hacking+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEENQoQhY3g1gig9oAHAAeACAAXWIAYEEkgEDMi4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=e2f4YuKNNevt5OUPh6eAQA&bih=961&biw=1920#imgrc=5XiCbpXaX-asKM" />
-</div>
+<div class="tenor-gif-embed" data-postid="23864910" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">Hacker Hacker Man GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="weershft-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
