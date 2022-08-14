@@ -5,7 +5,6 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div class="tenor-gif-embed" data-postid="23864910" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">Hacker Hacker Man GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="weershft-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="weershft-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
