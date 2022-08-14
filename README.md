@@ -5,6 +5,9 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="weershft-PHP" height="30" width="40" src="https://www.google.com/search?q=hacking+gif&tbm=isch&ved=2ahUKEwiit6fIrcX5AhXrNrkGHYcTAAgQ2-        cCegQIABAA&oq=hacking+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BAgAEENQoQhY3g1gig9oAHAAeACAAXWIAYEEkgEDMi4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=e2f4YuKNNevt5OUPh6eAQA&bih=961&biw=1920#imgrc=5XiCbpXaX-asKM" />
+</div>
+<div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="weershft-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="weershft-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
