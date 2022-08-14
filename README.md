@@ -5,7 +5,7 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style = 'border-radius: 100px'>
-    <div class="tenor-gif-embed" data-postid="20396503" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/kali-linux-hacker-anonymous-skid-gif-20396503">Kali Linux GIF</a>from <a style = 'display: none' href="https://tenor.com/search/kali-gifs">Kali GIFs</a></div>
+    <div class="tenor-gif-embed" data-postid="20396503" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a style = 'display: none' href="https://tenor.com/view/kali-linux-hacker-anonymous-skid-gif-20396503">Kali Linux GIF</a>from <a style = 'display: none' href="https://tenor.com/search/kali-gifs">Kali GIFs</a></div>
 <!--     <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
     <img align="right" height = "120em" src="https://c.tenor.com/zUMAAi4sjf0AAAAC/kali-linux.gif" />
   </div>
