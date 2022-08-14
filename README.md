@@ -21,7 +21,7 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img align="center" alt="weershft-POSTGREESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="weershft-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
   <img align="center" alt="weershft-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Kali Linux icon" srcset="https://img.icons8.com/plasticine/72/kali-linux.png 2x" style="width: 36px; height: 36px;">
+  <img alt="Kali Linux icon" src="https://img.icons8.com/plasticine/72/kali-linux.png" style="width: 36px; height: 36px;">
   </div>
   
   ##
