@@ -5,7 +5,7 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style = 'border-radius: 100px'>
-    <img align="right" alt="" height="150" style="border-radius:100px;" src="https://hackersec.com/wp-content/uploads/2017/08/instalar-kali-linux-hacker.jpg">
+    <img align="right" alt="" height="150" style="border-radius:100px;" src="https://c.tenor.com/zUMAAi4sjf0AAAAC/kali-linux.gif">
   </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
