@@ -3,9 +3,9 @@ Bem vindo ao meu perfil no GitHub.<br>
   <a href="https://github.com/weershft">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=weershft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
-    <div class="tenor-gif-embed" data-postid="20396503" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a style = 'display: none'     href="https://tenor.com/view/kali-linux-hacker-anonymous-skid-gif-20396503"></a><a style = 'display: none' href="https://tenor.com/search/kali-gifs"></a></div>
+    <div style = 'border-radius: 50px' class="tenor-gif-embed" data-postid="20396503" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a style = 'display: none'     href="https://tenor.com/view/kali-linux-hacker-anonymous-skid-gif-20396503"></a><a style = 'display: none' href="https://tenor.com/search/kali-gifs"></a></div>
 <!--     <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
-    <img align="" height = "120em" src="https://c.tenor.com/zUMAAi4sjf0AAAAC/kali-linux.gif" />
+    <img style = 'border-radius: 50px' align="" height = "120em" src="https://c.tenor.com/zUMAAi4sjf0AAAAC/kali-linux.gif" />
   <div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="weershft-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
