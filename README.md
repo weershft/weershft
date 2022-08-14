@@ -4,7 +4,9 @@ Bem vindo ao meu perfil no GitHub.<br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=weershft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weershft&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <img align="right" alt="" height="150" style="border-radius:100px;" src="https://hackersec.com/wp-content/uploads/2017/08/instalar-kali-linux-hacker.jpg">
+  <div style = 'border-radius: 100px'>
+    <img align="right" alt="" height="150" style="border-radius:100px;" src="https://hackersec.com/wp-content/uploads/2017/08/instalar-kali-linux-hacker.jpg">
+  </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="weershft-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="weershft-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
