@@ -59,18 +59,20 @@ Pense o seguinte : O mercado é igual uma corrida. ONDE :<br>
 Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando sempre ser referencia, e um lugar melhor para que perceiros de trabalho se sintam bem, trabalhando e fazendo o melhor.<br>
 
 Experiencia e Cursos:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - TypeScript. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> Angular - Ts. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> NextJs - TSX. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Node.js.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> PHP. () {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -  Laravel.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> HTML, CSS, Java Script / BootsTrap e JQuery. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> html, css, Java Script, TypeScript / BootsTrap e JQuery. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Python ( Basico ao Intermediario ).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> React Native ( CLI - Expo ). () {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento Android.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento IOS. ( Expo )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         - Desenvolvimento Android e IOS. ( Expo )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;            }<br>
-&nbsp;&nbsp;&nbsp;&nbsp;         -> SQL.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> PostgreSQL - Firebase - MySQL. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> Docker <br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> MongoDB <br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Administração Financeira.<br>
         
