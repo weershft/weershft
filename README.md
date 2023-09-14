@@ -83,7 +83,7 @@ Estudo aprofundado :<br> -> Programação Neuro Linguistica.<br>
 Um pouco do sobre -><br>
 Sempre tento aprender com tudo que passo e já passei, dou o meu melhor e mesmo assim sei que ainda tenho muito o que aprender e evoluir.
 
-"Ninguém é melhor do que ninguém, sendo assim, todos nos somos capazes de crescer tanto no pessoal quanto no profissional, através de força de vontade, persistência, pensamento positivo, e AÇÃO!!!!"<br>
+"Ninguém é melhor do que ninguém, sendo assim, todos nos somos capazes de crescer tanto no pessoal quanto no profissional, através de persistência, pensamento positivo, e principalmente AÇÃO!!!!"<br>
   
 </p></div>
 
